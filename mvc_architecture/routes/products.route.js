@@ -4,8 +4,8 @@ const router = express.Router();
 
 
 
-router.get("/products",getProducts);
+router.get("/products", getProducts);
 
-router.post("/products",saveProducts);
+router.post("/products", saveProducts);
 
 module.exports = router;

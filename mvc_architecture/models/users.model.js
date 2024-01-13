@@ -1,6 +1,6 @@
 const users = [
     {
-        name:"Tanvir",
+        name: "Tanvir",
         age: "25",
     },
     {

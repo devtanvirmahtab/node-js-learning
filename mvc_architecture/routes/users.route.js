@@ -4,8 +4,8 @@ const router = express.Router();
 
 
 
-router.get("/users",getUsers);
+router.get("/users", getUsers);
 
-router.post("/users",saveUsers);
+router.post("/users", saveUsers);
 
 module.exports = router;
